@@ -1,0 +1,10 @@
+
+Regression tree:
+tree::tree(formula = medv ~ ., data = boston_train)
+Variables actually used in tree construction:
+[1] "rm"    "lstat" "crim"  "tax"  
+Number of terminal nodes:  8 
+Residual mean deviance:  12.98 = 3179 / 245 
+Distribution of residuals:
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+-11.86000  -1.99500   0.03714   0.00000   1.86800  16.45000 

@@ -1,0 +1,3 @@
+"model","accuracy","error_rate"
+"Full classification tree",0.76,0.24
+"Pruned classification tree",0.755,0.245

@@ -1,0 +1,9 @@
+
+Classification tree:
+tree::tree(formula = High ~ . - Sales, data = carseats)
+Variables actually used in tree construction:
+[1] "ShelveLoc"   "Price"       "Income"      "CompPrice"   "Population"  "Advertising" "Age"        
+[8] "US"         
+Number of terminal nodes:  27 
+Residual mean deviance:  0.4575 = 170.7 / 373 
+Misclassification error rate: 0.09 = 36 / 400 

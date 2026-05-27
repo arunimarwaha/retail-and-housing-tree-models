@@ -1,0 +1,9 @@
+"tree_size","cross_validation_error","complexity_parameter"
+20,74,-Inf
+18,75,0
+16,75,0.5
+13,74,1.33333333333333
+8,75,2
+3,75,3
+2,91,13
+1,93,20

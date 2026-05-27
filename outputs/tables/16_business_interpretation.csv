@@ -1,0 +1,6 @@
+"section","insight"
+"Retail classification","Classification trees provide an interpretable way to identify high-performing stores."
+"Retail classification","Pruning can simplify the model while retaining similar predictive accuracy."
+"Housing regression","Single regression trees are interpretable but can be less accurate than ensemble methods."
+"Housing regression","Random forests and boosting improve prediction by combining many trees."
+"Housing regression","Feature importance and partial dependence plots help translate complex models into business insights."
